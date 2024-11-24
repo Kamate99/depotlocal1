@@ -1,0 +1,10 @@
+.bloc{
+    background-color: rgb(187, 182, 175);
+    margin: 0 auto;
+    width: 1300px;
+}
+@media screen and (max-width:1189px) {
+    .bloc{
+        width: 90%;
+}
+    }
